@@ -1,0 +1,59 @@
+body {
+    background-color: #a194a9;
+  }
+  
+  .container {
+    background-color: rgb(195, 141, 206);
+    text-align: center;
+    flex-direction: column;
+  }
+  
+  h3 {
+    color: rgb(236, 231, 231);
+  }
+  
+  #date {
+    width: 35%;
+  }
+  #enter {
+    width: 74%;
+  }
+  .sun {
+    background-color: rgb(205, 43, 135);
+    color: #fff;
+  }
+  
+  .active {
+    background-color: rgb(103, 41, 113);
+  }
+  
+  .card-header {
+    background: rgb(183, 51, 216);
+    flex-direction: column;
+    text-align: center;
+    margin-left: auto;
+  }
+  
+  .inputData {
+    margin: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  input {
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #000;
+  }
+  
+  button {
+    padding: 8px 20px;
+    border-radius: 2px;
+    border: none;
+    background-color: rgb(107, 17, 125);
+  }
+  
+  .form-control {
+    margin: 10px;
+  }
